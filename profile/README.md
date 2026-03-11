@@ -24,54 +24,62 @@ Plataforma multiplataforma que conecta usuarios con proveedores verificados —a
   <img src="https://img.shields.io/badge/✓-Valoracion%20Bidireccional-06b6d4?style=flat-square&labelColor=1e293b" alt="Valoracion"/>
 </p>
 
-| Caracteristica | Descripcion |
-|:---|:---|
-| **🔒 Verificacion Dual** | Garantizamos la legalidad de cada proveedor, diferenciando entre particulares y entidades registradas. |
-| **💬 Chat Inteligente** | Negociacion directa mediante burbujas dinamicas de ofertas dentro del flujo conversacional. |
-| **💰 Sistema Escrow** | Retencion segura de fondos. El profesional recibe el pago solo cuando el cliente aprueba el trabajo. |
-| **📄 Gestion B2B** | Infraestructura preparada para facturacion formal entre empresas y profesionales. |
+<div align="center">
+  
+  | Caracteristica | Descripcion |
+  |:---|:---|
+  | **🔒 Verificacion Dual** | Garantizamos la legalidad de cada proveedor, diferenciando entre particulares y entidades registradas. |
+  | **💬 Chat Inteligente** | Negociacion directa mediante burbujas dinamicas de ofertas dentro del flujo conversacional. |
+  | **💰 Sistema Escrow** | Retencion segura de fondos. El profesional recibe el pago solo cuando el cliente aprueba el trabajo. |
+  | **📄 Gestion B2B** | Infraestructura preparada para facturacion formal entre empresas y profesionales. |
+  
+</div>
 
 <br>
 
 ## Repositorios
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>iMirly</h3>
-      <p>Nucleo del proyecto<br><em>App movil + Servidor API</em></p>
-      <a href="https://github.com/iMirly/iMirly">
-        <img src="https://img.shields.io/badge/Ver_repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
-      </a>
-      <br><br>
-      <a href="https://github.com/iMirly/iMirly/archive/refs/heads/main.zip">
-        <img src="https://img.shields.io/badge/⬇️_Descargar_ZIP-06b6d4?style=for-the-badge" alt="Descargar"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>iMirlyAppBackend</h3>
-      <p>API + Admin Panel<br><em>Panel de gestion HTML/JS</em></p>
-      <a href="https://github.com/iMirly/iMirlyAppBackend">
-        <img src="https://img.shields.io/badge/Ver_repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
-      </a>
-      <br><br>
-      <a href="https://github.com/iMirly/iMirlyAppBackend/archive/refs/heads/main.zip">
-        <img src="https://img.shields.io/badge/⬇️_Descargar_ZIP-06b6d4?style=for-the-badge" alt="Descargar"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>iMirlyAppAntigua</h3>
-      <p>Repositorio historico<br><em>Evolucion desde MVVM local</em></p>
-      <a href="https://github.com/iMirly/iMirlyAppAntigua">
-        <img src="https://img.shields.io/badge/Ver_repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
-      </a>
-      <br><br>
-      <a href="https://github.com/iMirly/iMirlyAppAntigua/archive/refs/heads/main.zip">
-        <img src="https://img.shields.io/badge/⬇️_Descargar_ZIP-06b6d4?style=for-the-badge" alt="Descargar"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>iMirly</h3>
+        <p>Nucleo del proyecto<br><em>App movil + Servidor API</em></p>
+        <a href="https://github.com/iMirly/iMirly">
+          <img src="https://img.shields.io/badge/Ver_repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/iMirly/iMirly/archive/refs/heads/main.zip">
+          <img src="https://img.shields.io/badge/⬇️_Descargar_ZIP-06b6d4?style=for-the-badge" alt="Descargar"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>iMirlyAppBackend</h3>
+        <p>API + Admin Panel<br><em>Panel de gestion HTML/JS</em></p>
+        <a href="https://github.com/iMirly/iMirlyAppBackend">
+          <img src="https://img.shields.io/badge/Ver_repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/iMirly/iMirlyAppBackend/archive/refs/heads/main.zip">
+          <img src="https://img.shields.io/badge/⬇️_Descargar_ZIP-06b6d4?style=for-the-badge" alt="Descargar"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>iMirlyAppAntigua</h3>
+        <p>Repositorio historico<br><em>Evolucion desde MVVM local</em></p>
+        <a href="https://github.com/iMirly/iMirlyAppAntigua">
+          <img src="https://img.shields.io/badge/Ver_repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/iMirly/iMirlyAppAntigua/archive/refs/heads/main.zip">
+          <img src="https://img.shields.io/badge/⬇️_Descargar_ZIP-06b6d4?style=for-the-badge" alt="Descargar"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <br>
 
