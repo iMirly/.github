@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:06b6d4&height=180&section=header&text=iMirly&fontSize=70&fontColor=fff&fontAlignY=40&desc=Ecosistema%20Integral%20para%20Servicios%20Profesionales&descAlignY=70&descSize=18" width="100%"/>
 </div>
 
----
+<br>
 
 ## Descripcion
 
@@ -12,7 +12,7 @@
 
 Plataforma multiplataforma que conecta usuarios con proveedores verificados —autónomos y empresas— eliminando intermediarios opacos en sectores como reformas, limpieza y mantenimiento.
 
----
+<br>
 
 ## Caracteristicas
 
@@ -31,7 +31,7 @@ Plataforma multiplataforma que conecta usuarios con proveedores verificados —a
 | **💰 Sistema Escrow** | Retencion segura de fondos. El profesional recibe el pago solo cuando el cliente aprueba el trabajo. |
 | **📄 Gestion B2B** | Infraestructura preparada para facturacion formal entre empresas y profesionales. |
 
----
+<br>
 
 ## Repositorios
 
@@ -73,7 +73,7 @@ Plataforma multiplataforma que conecta usuarios con proveedores verificados —a
   </tr>
 </table>
 
----
+<br>
 
 ## Tecnologia
 
@@ -90,7 +90,7 @@ Plataforma multiplataforma que conecta usuarios con proveedores verificados —a
 **Datos:** PostgreSQL + Hibernate/JPA  
 **Comunicacion:** REST API, Retrofit, OkHttp
 
----
+<br>
 
 ## Documentacion
 
@@ -129,7 +129,7 @@ Hemos preparado una documentacion completa para cubrir todas las necesidades del
   </tr>
 </table>
 
----
+<br>
 
 ## Equipo
 
