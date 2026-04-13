@@ -116,14 +116,14 @@ Hemos preparado una documentacion completa para cubrir todas las necesidades del
     <td width="25%" align="center">
       <h4>🔧 Guia de Instalacion</h4>
       <p>Requisitos previos y pasos detallados para desplegar el entorno de desarrollo o produccion. Configuracion de Java 21, PostgreSQL y Android Studio.</p>
-      <a href="https://appimirly.github.io/iMirlyDocumentacion/pages/android-instalacion.html">
+      <a href="https://imirly.github.io/iMirlyDocumentacion/pages/android-instalacion.html">
         <img src="https://img.shields.io/badge/Ver_guia-06b6d4?style=for-the-badge" alt="Instalacion"/>
       </a>
     </td>
     <td width="25%" align="center">
       <h4>📋 Documentacion Tecnica</h4>
       <p>Arquitectura hexagonal, diagramas E-R, estructura de API REST y especificaciones de los modulos auth, catalog, contracting y messages.</p>
-      <a href="https://appimirly.github.io/iMirlyDocumentacion/">
+      <a href="https://imirly.github.io/iMirlyDocumentacion/">
         <img src="https://img.shields.io/badge/Ver_docs-3b82f6?style=for-the-badge" alt="Tecnica"/>
       </a>
     </td>
