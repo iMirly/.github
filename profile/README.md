@@ -145,26 +145,20 @@ Hemos preparado una documentacion completa para cubrir todas las necesidades del
 </p>
 
 <p align="center">
-  <a href="https://github.com/AnaNunezRejon">
-    <img src="https://img.shields.io/badge/Ana_Nunez-UI%2FUX%20%26%20Frontend-3f51b5?style=for-the-badge&logo=github&logoColor=white" alt="Ana"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Anyeel">
-    <img src="https://img.shields.io/badge/Angel_Millan-Backend%20%26%20Arquitectura-6c5ce7?style=for-the-badge&logo=github&logoColor=white" alt="Angel"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/evagr11">
-    <img src="https://img.shields.io/badge/Eva_Gallardo-Full%20Stack%20%26%20QA-3f51b5?style=for-the-badge&logo=github&logoColor=white" alt="Eva"/>
+    <img src="https://img.shields.io/badge/Eva_Gallardo-3f51b5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
-<p align="center">
+  <a href="https://github.com/AnaNunezRejon">
+    <img src="https://img.shields.io/badge/Ana_Núñez-6c5ce7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Anyeel">
+    <img src="https://img.shields.io/badge/Ángel_Millán-3f51b5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/nicocorbi">
-    <img src="https://img.shields.io/badge/Nicolas_Corbi-DevOps%20%26%20Seguridad-6c5ce7?style=for-the-badge&logo=github&logoColor=white" alt="Nicolas"/>
+    <img src="https://img.shields.io/badge/Nicolás_Corbi-6c5ce7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
