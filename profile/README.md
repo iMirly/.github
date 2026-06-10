@@ -147,10 +147,6 @@ Hemos preparado una documentacion completa para cubrir todas las necesidades del
 </p>
 
 <p align="center">
-  <a href="https://github.com/evagr11">
-    <img src="https://img.shields.io/badge/Eva_Gallardo-3f51b5?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://github.com/AnaNunezRejon">
     <img src="https://img.shields.io/badge/Ana_Núñez-6c5ce7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -158,7 +154,9 @@ Hemos preparado una documentacion completa para cubrir todas las necesidades del
   <a href="https://github.com/Anyeel">
     <img src="https://img.shields.io/badge/Ángel_Millán-3f51b5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
+  <a href="https://github.com/evagr11">
+    <img src="https://img.shields.io/badge/Eva_Gallardo-3f51b5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://github.com/nicocorbi">
     <img src="https://img.shields.io/badge/Nicolás_Corbi-6c5ce7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -173,5 +171,5 @@ Hemos preparado una documentacion completa para cubrir todas las necesidades del
 </div>
 
 <p align="center">
-  <sub>© 2025 iMirly — Todos los derechos reservados</sub>
+  <sub>© 2026 iMirly — Todos los derechos reservados</sub>
 </p>
